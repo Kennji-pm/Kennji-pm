@@ -1,9 +1,9 @@
 <h1 align="center">Hi everyone, I'm Harrisu-pm</h1>
 <h3 align="center">As a plugin developer for PocketMine-MP from Vietnam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harrisu-pm&label=Profile%20views&color=0e75b6&style=flat" alt="harrisu-pm" /> </p>
+<p align=""> <img src="https://komarev.com/ghpvc/?username=harrisu-pm&label=Profile%20views&color=0e75b6&style=flat" alt="harrisu-pm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrisu-pm" alt="harrisu-pm" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrisu-pm&theme=shades-of-purple" alt="harrisu-pm" /></a> </p>
 
 - 📫 How to reach me **pqthien908@gmail.com**
 
