@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrisu-pm&theme=onedark" alt="harrisu-pm" /></a> </p>
 
-- 📫 How to reach me **pqthien908@gmail.com**
+📫 Send mail me **pqthien908@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
