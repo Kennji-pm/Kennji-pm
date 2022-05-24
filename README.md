@@ -1,5 +1,5 @@
-<h1 align="center">Hi everyone, I'm Harrisu-pm</h1>
-<h3 align="center">As a plugin developer for PocketMine-MP from Vietnam</h3>
+<h2 align="center">Hi everyone, I'm Harrisu-pm</>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Macondo&duration=3500&color=1D7EF7&center=true&vCenter=true&lines=My+nickname+is+HatouHarrisu;You+can+call+me+Harrisu;I'm+a+plugin+developer+for+PocketMine-MP!)](https://github.com/Harrisu-pm/)
 
 <p align=""> <img src="https://komarev.com/ghpvc/?username=harrisu-pm&label=Profile%20views&color=0e75b6&style=flat" alt="harrisu-pm" /> </p>
 
