@@ -188,9 +188,9 @@ export default Kennjipm;
 </td>
 <td width="33%" valign="middle" align="center">
 
-![PHP](https://img.shields.io/badge/PHP%20Plugin%20Dev-a78bfa?style=for-the-badge&logo=php&logoColor=090918)
+![PHP](https://img.shields.io/badge/Java%20Plugin%20Dev-a78bfa?style=for-the-badge&logo=java&logoColor=090918)
 
-![JS](https://img.shields.io/badge/Bot%20Architect-22d3ee?style=for-the-badge&logo=javascript&logoColor=090918)
+![JS](https://img.shields.io/badge/Bot%20Architect-22d3ee?style=for-the-badge&logo=python&logoColor=090918)
 
 ![Lua](https://img.shields.io/badge/Skin%20Crafter-f472b6?style=for-the-badge&logo=lua&logoColor=090918)
 
