@@ -28,7 +28,7 @@ LOCATION = "Vietnam"
 ORG = "Vastellic Interactive"
 BOOTDEV_URL = "https://api.boot.dev/v1/users/public/6ae174f9-7062-4288-b02c-d9f01206d47a/thumbnail"
 FEATURED = ["NightfallAutoQuest", "StarlightAbsolute-Bot", "PearlUI_Rainmeter"]
-OUT = Path(__file__).resolve().parents[1] / "assets" / "kennji-os.png"
+OUT = Path(__file__).resolve().parents[1] / "assets" / "kennji-pm.png"
 
 W, H = 1600, 1180
 
@@ -79,7 +79,7 @@ M14 = font(FONT_MONO, 14)
 M16 = font(FONT_MONO_BOLD, 16)
 
 SESSION = requests.Session()
-SESSION.headers.update({"User-Agent": "KennjiOS-Profile-Renderer/1.0", "Accept": "application/vnd.github+json"})
+SESSION.headers.update({"User-Agent": "Kennji-pm-Profile-Renderer/1.0", "Accept": "application/vnd.github+json"})
 TOKEN = os.getenv("GH_TOKEN") or os.getenv("GITHUB_TOKEN")
 if TOKEN:
     SESSION.headers["Authorization"] = f"Bearer {TOKEN}"
