@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://github.com/Kennji-pm">
-  <img src="./assets/kennji-os.png" width="100%" alt="Kennji-pm — Hayakawa Kennji portfolio dashboard" />
+  <img src="./assets/kennji-pm.png" width="100%" alt="Kennji-pm — Hayakawa Kennji portfolio dashboard" />
 </a>
 
 <br />
