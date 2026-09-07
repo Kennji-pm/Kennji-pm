@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020209,35:0d0221,70:12063a,100:020215&height=290&text=Kennji-pm&fontSize=80&fontColor=e2d9f3&animation=twinkling&stroke=7c3aed&strokeWidth=2&desc=%E2%9C%A6%20plugin%20dev%20%C2%B7%20bot%20builder%20%C2%B7%20skin%20crafter%20%E2%9C%A6&descSize=17&descColor=a78bfa&descAlignY=72&fontAlignY=44" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020209,35:0d0221,70:12063a,100:020215&height=290&text=_kennji&fontSize=80&fontColor=e2d9f3&animation=twinkling&stroke=7c3aed&strokeWidth=2&desc=%E2%9C%A6%20plugin%20dev%20%C2%B7%20bot%20builder%20%C2%B7%20skin%20crafter%20%E2%9C%A6&descSize=17&descColor=a78bfa&descAlignY=72&fontAlignY=44" width="100%"/>
 
 <sub>✦ · ˚ · · ˚ · ✦ · ˚ · · ˚ · ✦ · ˚ · · ˚ · ✦ · ˚ · · ˚ · ✦ · ˚ · · ˚ · ✦</sub>
 
@@ -159,12 +159,6 @@ export default Kennjipm;
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kennji-pm&bg_color=090918&color=a78bfa&line=7c3aed&point=22d3ee&area=true&hide_border=true" width="100%"/>
-
-</div>
-
 <br/>
 
 <table>
@@ -172,28 +166,22 @@ export default Kennjipm;
 <td width="67%" valign="middle">
 
 <pre>
- · ✦ ˚ · ✦ ˚ · ✦ ˚ · ✦ ˚ · ✦ ˚ ·
-
-  ┌────────────────────────────────────┐
-  │   Zzz...    🌙                     │
-  │  /\_/\  ✦   (watching commits)     │
-  │ (- ω -)σ                           │
-  │  っ  っ     📊 graph goes brrr      │
-  │   ∪  ∪                             │
-  └────────────────────────────────────┘
-
- · ✦ ˚ · ✦ ˚ · ✦ ˚ · ✦ ˚ · ✦ ˚ ·
+· ✦ ˚ · ✦ ˚ · ✦ ˚ · ✦ ˚ · ✦ ˚ · ✦ ˚ · ✦ ˚ ·
+ ┌──────────────────────────────────────────┐
+ │       Zzz...                             │
+ │            /│_│\    (watching commits)   │
+ │           ( - . - )                      │
+ │          /   つ  つ  📊 graph goes brrr  │
+ │         (  /   \  )                      │
+ └─────────"─"───"─"────────────────────────┘
+ · ✦ ˚ · ✦ ˚ · ✦ ˚ · ✦ ˚ · ✦ ˚ · ✦ ˚ · ✦ ˚ ·
 </pre>
 
 </td>
 <td width="33%" valign="middle" align="center">
-
-![PHP](https://img.shields.io/badge/Java%20Plugin%20Dev-a78bfa?style=for-the-badge&logo=java&logoColor=090918)
-
-![JS](https://img.shields.io/badge/Bot%20Architect-22d3ee?style=for-the-badge&logo=python&logoColor=090918)
-
-![Lua](https://img.shields.io/badge/Skin%20Crafter-f472b6?style=for-the-badge&logo=lua&logoColor=090918)
-
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/6ae174f9-7062-4288-b02c-d9f01206d47a/thumbnail" >
+</p>
 </td>
 </tr>
 </table>
