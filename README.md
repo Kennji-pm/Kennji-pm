@@ -279,24 +279,6 @@ kennji@studio:~$ _
   alt="Development tools"
 />
 
-<br><br>
-
-<code>Java</code>
-&nbsp;
-<code>Python</code>
-&nbsp;
-<code>JavaScript</code>
-&nbsp;
-<code>Node.js</code>
-&nbsp;
-<code>Git</code>
-&nbsp;
-<code>GitHub</code>
-&nbsp;
-<code>VS Code</code>
-&nbsp;
-<code>Arch Linux</code>
-
 </div>
 
 <br>
