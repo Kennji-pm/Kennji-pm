@@ -291,7 +291,7 @@ kennji@studio:~$ _
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=java,python,js,nodejs,git,github,vscode,arch&theme=dark&perline=8"
+  src="https://skillicons.dev/icons?i=python,rust,cpp,js,java,nodejs,git,github,vscode,arch&theme=dark&perline=10"
   alt="Development tools"
 />
 
@@ -323,18 +323,10 @@ kennji@studio:~$ _
 <table width="100%">
 <tr>
 <td>
-  <code>KENNJI STUDIO / EOF</code>
+  <code>KENNJI-PM STUDIO / EOF</code>
 </td>
 <td align="right">
   <a href="https://github.com/Kennji-pm">github.com/Kennji-pm</a>
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-<sub>
-No generated screenshots. No fake controls. Native GitHub links, collapsible panels, and live endpoints.
-</sub>
-
-</div>
