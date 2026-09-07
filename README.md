@@ -39,22 +39,6 @@
 
 <br>
 
-<table width="100%">
-<tr>
-<td>
-  <strong>KENNJI-PM STUDIO</strong>
-  <sub>&nbsp;/&nbsp; profile.session</sub>
-</td>
-<td align="right">
-  <code>ONLINE</code>
-  &nbsp;
-  <kbd>—</kbd>
-  <kbd>□</kbd>
-  <kbd>×</kbd>
-</td>
-</tr>
-</table>
-
 <a id="overview"></a>
 
 ## <samp>01 / OVERVIEW</samp>
